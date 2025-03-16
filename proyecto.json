@@ -1,0 +1,102 @@
+[
+    {
+        "codigo": 2001,
+        "nombre": "Sung Jinwoo",
+        "imagen": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/02/sung-jin-woo-featured-image.jpg",
+        "descripcion": "Protagonista principal, conocido como el cazador más poderoso y Monarca de las Sombras.",
+        "habilidades": "Dominio de Sombras, fuerza sobrehumana, regeneración.",
+        "aliados": "Yu Jin-Ho, Cha Hae-In.",
+        "enemigos": "Monarcas, Antares.",
+        "nivel_poder": "Incalculable"
+    },
+    {
+        "codigo": 2002,
+        "nombre": "Cha Hae-In",
+        "imagen": "https://w0.peakpx.com/wallpaper/855/914/HD-wallpaper-solo-leveling-cha-hae-in.jpg",
+        "descripcion": "Cazadora de rango S, conocida por su habilidad con la espada y su conexión especial con Jinwoo.",
+        "habilidades": "Maestría con la espada, agilidad extrema.",
+        "aliados": "Sung Jinwoo.",
+        "enemigos": "Mazmorras y Monarcas.",
+        "nivel_poder": "Rango S"
+    },
+    {
+        "codigo": 2003,
+        "nombre": "Yu Jin-Ho",
+        "imagen": "https://static.wikia.nocookie.net/p__/images/4/4a/Yoo_jinho_anime1.png/revision/latest/scale-to-width-down/250?cb=20230909000650&path-prefix=protagonist",
+        "descripcion": "Fiel amigo y compañero de Jinwoo, aspirante a cazador y leal aliado.",
+        "habilidades": "Liderazgo, manejo básico de armas.",
+        "aliados": "Sung Jinwoo.",
+        "enemigos": "Criaturas de mazmorras.",
+        "nivel_poder": "Rango D"
+    },
+    {
+        "codigo": 2004,
+        "nombre": "Go Gun-Hee",
+        "imagen": "https://img.dbgames.info/anigame/cards/go_gunhee.gif",
+        "descripcion": "Presidente de la Asociación de Cazadores de Corea, mentor y aliado de Jinwoo.",
+        "habilidades": "Estrategia, liderazgo.",
+        "aliados": "Sung Jinwoo, cazadores coreanos.",
+        "enemigos": "Monarcas.",
+        "nivel_poder": "Rango S (anteriormente)"
+    },
+    {
+        "codigo": 2005,
+        "nombre": "Sung Il-Hwan",
+        "imagen": "https://static.promediateknologi.id/crop/24x70:712x646/0x0/webp/photo/p2/74/2024/03/21/1ffedea801476cb497539d3604d96156-3274079629.jpg",
+        "descripcion": "Padre de Jinwoo, desaparecido durante años en una mazmorra.",
+        "habilidades": "Fuerza sobrehumana, experiencia en batalla.",
+        "aliados": "Sung Jinwoo.",
+        "enemigos": "Monarcas.",
+        "nivel_poder": "Rango S+"
+    },
+    {
+        "codigo": 2006,
+        "nombre": "Antares",
+        "imagen": "https://preview.redd.it/d4qnfz2l5hrc1.jpeg?auto=webp&s=be12c8d8d2e2242edde0e2da1698d48ddb610b2a",
+        "descripcion": "Rey de los Dragones y Monarca más poderoso, principal antagonista.",
+        "habilidades": "Fuego dracónico, fuerza y resistencia sobrehumanas.",
+        "aliados": "Monarcas.",
+        "enemigos": "Sung Jinwoo, humanos.",
+        "nivel_poder": "Máximo"
+    },
+    {
+        "codigo": 2007,
+        "nombre": "Igris",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxD0xDz37vjqjd9uwD8HeE9dPI7J-oIv0HFw&s",
+        "descripcion": "Caballero de sombras leal a Jinwoo, uno de sus primeros subordinados.",
+        "habilidades": "Maestría en combate cuerpo a cuerpo, lealtad inquebrantable.",
+        "aliados": "Sung Jinwoo.",
+        "enemigos": "Criaturas enemigas.",
+        "nivel_poder": "Rango A+"
+    },
+    {
+        "codigo": 2008,
+        "nombre": "Beru",
+        "imagen": "https://static.wikia.nocookie.net/solo-leveling-arise/images/0/0c/Beru_Common.png/revision/latest?cb=20241219075746",
+        "descripcion": "Subordinado de sombras de Jinwoo, antiguo líder de las hormigas gigantes.",
+        "habilidades": "Velocidad, fuerza y regeneración rápida.",
+        "aliados": "Sung Jinwoo.",
+        "enemigos": "Criaturas enemigas.",
+        "nivel_poder": "Rango S"
+    },
+    {
+        "codigo": 2009,
+        "nombre": "Tusk",
+        "imagen": "https://pbs.twimg.com/media/GQbbhKIXMAA2wec?format=jpg&name=4096x4096",
+        "descripcion": "Subordinado de sombras de Jinwoo, antiguo chamán orco.",
+        "habilidades": "Magia poderosa, estrategias de combate.",
+        "aliados": "Sung Jinwoo.",
+        "enemigos": "Criaturas enemigas.",
+        "nivel_poder": "Rango A"
+    },
+    {
+        "codigo": 2010,
+        "nombre": "Bellion",
+        "imagen": "https://i.pinimg.com/736x/a4/74/08/a474083c61b59ee9f1c3d0a80303a7c9.jpg",
+        "descripcion": "Primer Caballero de las Sombras y más poderoso subordinado de Jinwoo.",
+        "habilidades": "Dominio del combate con espada, lealtad absoluta.",
+        "aliados": "Sung Jinwoo.",
+        "enemigos": "Monarcas.",
+        "nivel_poder": "Rango S+"
+    }
+]
